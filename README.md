@@ -15,3 +15,5 @@ Make sure to follow our code standards and our directions how to setup the prefe
 * As a user I want to be able to navigate between pages using a main menu displayed at the top of each page.
 
 Direct change in dev, because I can /Ironboy
+
+* Adding a nice Kitten pic to have a new nice start page 
